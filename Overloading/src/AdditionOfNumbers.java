@@ -6,6 +6,7 @@ public class AdditionOfNumbers {
 		
 	}
 	public AdditionOfNumbers(int inputa,int inputb, int inputc)
+	
 	{
 		a=inputa;
 	    b=inputb;
@@ -27,8 +28,7 @@ public class AdditionOfNumbers {
 
 	public static void main(String[] args) {
 		AdditionOfNumbers add =new AdditionOfNumbers();
-		add.sum(add.a, add.b)
-;
+		add.sum(add.a, add.b);
 		
 		add.sum(55, 267,10);
 	

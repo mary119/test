@@ -5,7 +5,7 @@ import com.facebook.instagram.login.LoginValidation;//to import single class log
 import com.facebook.instagram.login.*;//to import all that classes in that package
 
 public class SearchTester {
-	public static void main(String args[]) 
+	public static void main(String args[]) {
 	
 		
 		//use qualified cls name when cls names are sae but in different pkgs.
